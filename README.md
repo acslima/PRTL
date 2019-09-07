@@ -1,5 +1,6 @@
 # PRTL
 A framework for the analysis of transient overvoltage in overhead lines and underground cables due to lightning. This work is dedicated to the memory of Professor Carlos Portela, a great inspiration regarding the transient analysis of electrical systems, a great mentor and a much-missed friend and colleague.
+
 An effective analysis and design of an overhead line demands and accurate and numerically efficient algorithm to evaluate its lightning performance. Furthermore, the frequency dependent in overhead conductors and tower grounding systems is paramount. Traditionally, one may use either frequency-domain or time-domain for the network solution. There are advantages and limitations in either approaches.
 
 Regardless of the domain choice, most programs (commercial or not) used for lightning performance have a common feature, they are closed source/architecture, i.e., one is limited to a set of built-in models and with a limited option to develop/test new models or unusual configurations.
